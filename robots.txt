@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+#This line has been added to demonstrate the usage of "gitpull"command
+#This line has been added to demonstrate the usage of "gitpush"command
+
